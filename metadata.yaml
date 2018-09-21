@@ -1,0 +1,47 @@
+_repo: Castle-Blair-A-Story-of-Youthful-Days_54116
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Livermore, Mary A. (Mary Ashton)
+    aliases:
+    - Livermore, Mary Ashton Rice
+    - Rice, Mary Ashton
+    birthdate: 1820
+    deathdate: 1905
+    gutenberg_agent_id: '47711'
+    url: http://www.gutenberg.org/2009/agents/47711
+  illustrators:
+  - agent_name: Whitney, H.
+    gutenberg_agent_id: '47713'
+    url: http://www.gutenberg.org/2009/agents/47713
+  - agent_name: Whitney, I.
+    gutenberg_agent_id: '47712'
+    url: http://www.gutenberg.org/2009/agents/47712
+creator:
+  author:
+    agent_name: Shaw, Flora L. (Flora Louisa)
+    aliases:
+    - Lugard, Lady
+    - Lugard, Flora Louisa Shaw
+    - Shaw, F. (Flora)
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '47710'
+    url: http://www.gutenberg.org/2009/agents/47710
+description: ''
+gutenberg_issued: '2017-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54116'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Uncles -- Juvenile fiction'
+- !lcsh 'Ireland -- Juvenile fiction'
+- !lcsh 'Children -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Castle Blair: A Story of Youthful Days'
+url: http://www.gutenberg.org/ebooks/54116

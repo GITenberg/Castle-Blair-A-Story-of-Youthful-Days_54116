@@ -1,5 +1,5 @@
 _repo: Castle-Blair-A-Story-of-Youthful-Days_54116
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Livermore, Mary A. (Mary Ashton)
@@ -17,6 +17,9 @@ contributor:
   - agent_name: Whitney, I.
     gutenberg_agent_id: '47712'
     url: http://www.gutenberg.org/2009/agents/47712
+covers:
+- cover_type: archival
+  image_path: 54116-h/images/cover.jpg
 creator:
   author:
     agent_name: Shaw, Flora L. (Flora Louisa)
@@ -29,6 +32,8 @@ creator:
     gutenberg_agent_id: '47710'
     url: http://www.gutenberg.org/2009/agents/47710
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54116#Castle-Blair-A-Story-of-Youthful-Days
 gutenberg_issued: '2017-02-06'
 gutenberg_type: Text
 identifiers:
